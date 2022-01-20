@@ -1,2 +1,3 @@
-# uwave-data-analysis
-Preliminary and modelled analysis of data for design feedback at the minimum
+# Data analysis
+
+This repo will be used for fitting the data from the measurements to extract parameters for the design feedback.
