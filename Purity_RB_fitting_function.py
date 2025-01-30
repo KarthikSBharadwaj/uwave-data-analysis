@@ -57,5 +57,4 @@ def get_fidelity_error(xdata_pre, ydata, num_samples, popt, confidence_interval 
     sqrtQ = np.sqrt(Q[0][0])
     alpha_error = ci_t_upper * s * sqrtQ / 2.
     fidelity_error = ((dim - 1) / (dim)) * alpha_error
-    fidelity_error = 0
     return fidelity_error
